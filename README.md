@@ -39,4 +39,4 @@ Finally, you can check the <i>about</i> section to know about me, my social medi
 
 I hope you liked it!
 
-You can also access this app via [this link](weatherappsotelo.vercel.app)!
+You can also access this app via [this link](http://weatherappsotelo.vercel.app)!
